@@ -6,17 +6,17 @@ body {
 
 a:link
 {
-    color:#FFFFFF;
+    color:white; /* old: #FFFFFF */
 }
 
 a:visited
 {
-    color:#a3abb5;
+    color:light-gray; /* old: #a3abb5 */
 }
 
 a:hover 
 {
-    color:#ced6de;
+    color:purple; /* old: #ced6de */
 }
 
 hr {
