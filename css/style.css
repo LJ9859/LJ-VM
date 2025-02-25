@@ -1,22 +1,22 @@
 body {
-    background-color: #00807F;
+    background-color: #6aaff7; /* Old Color: #00807F */
     color: White;
     font-family: "Arial", serif;
 }
 
 a:link
 {
-    color:#FFFFFF;
+    color:white; /* old: #FFFFFF */
 }
 
 a:visited
 {
-    color:#a3abb5;
+    color:azure; /* old: #a3abb5 */
 }
 
 a:hover 
 {
-    color:#ced6de;
+    color:cornsilk; /* old: #ced6de */
 }
 
 hr {
