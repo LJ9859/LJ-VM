@@ -11,12 +11,12 @@ a:link
 
 a:visited
 {
-    color:light-gray; /* old: #a3abb5 */
+    color:azure; /* old: #a3abb5 */
 }
 
 a:hover 
 {
-    color:purple; /* old: #ced6de */
+    color:cornsilk; /* old: #ced6de */
 }
 
 hr {
